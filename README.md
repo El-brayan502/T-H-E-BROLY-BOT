@@ -121,4 +121,4 @@ npm start
 
 <a href="https://github.com/StarlightsTeam"><img src="https://i.ibb.co/qRfKp3t/file.jpg" width="300" height="300" alt="おDaniel"/></a>
 
-`© Ai Hoshino - MD / Starlights Team _ By おDaniel`
+`© 𝐓𝐡𝐞 𝐁𝐫𝐨𝐥𝐲-𝐁𝐨𝐭 / 𝐒𝐮𝐩𝐞𝐫 𝐁𝐫𝐨𝐥𝐲 `
