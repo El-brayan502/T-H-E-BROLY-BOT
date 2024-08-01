@@ -119,6 +119,6 @@ npm start
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
-<a href="https://github.com/StarlightsTeam"><img src="https://i.ibb.co/qRfKp3t/file.jpg" width="300" height="300" alt="Brayan"/></a>
+<a href="https://github.com/StarlightsTeam"><img src="https://telegra.ph/file/a0a29bf8917b480a869a6.jpg" width="300" height="300" alt="Brayan"/></a>
 
 `© 𝐓𝐡𝐞 𝐁𝐫𝐨𝐥𝐲-𝐁𝐨𝐭 / 𝐒𝐮𝐩𝐞𝐫 𝐁𝐫𝐨𝐥𝐲_𝗕𝗿𝗮𝘆𝗮𝗻-502`
