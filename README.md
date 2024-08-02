@@ -1,4 +1,4 @@
-<h1 align="center">‧ 𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘 - 𝐁𝐎𝐓 ‧
+<h1 align="center">‧ 𝗧 𝗛 𝗘  𝗕 𝗥 𝗢 𝗟 𝗬 - 𝗕 𝗢 𝗧 ‧
 </p>
 <p>
         <img src= "https://telegra.ph/file/a6d077cafb4b3204d8fc2.jpg">
