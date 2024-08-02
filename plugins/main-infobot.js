@@ -62,30 +62,30 @@ let handler = async (m, { conn, usedPrefix }) => {
    let teks = ` –  *I N F O  -  B O T*
 
 ┌  ✩  *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}
-│  ✩  *Prefijo* : [  ${usedPrefix}  ]
-│  ✩  *Total Plugins* : ${totalf}
-│  ✩  *Plataforma* : ${platform()}
-│  ✩  *Servidor* : ${hostname()}
-│  ✩  *RAM* : ${format(totalmem() - freemem())} / ${format(totalmem())}
-│  ✩  *FreeRAM* : ${format(freemem())}
-│  ✩  *Speed* : ${latensi.toFixed(4)} ms
-│  ✩  *Uptime* : ${uptime}
-│  ✩  *Modo* : ${bot.public ? 'Privado' : 'Publico'}
-│  ✩  *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* )
+│  ❒  *Prefijo* : [  ${usedPrefix}  ]
+│  ❒  *Total Plugins* : ${totalf}
+│  ❒  *Plataforma* : ${platform()}
+│  ❒  *Servidor* : ${hostname()}
+│  ❒  *RAM* : ${format(totalmem() - freemem())} / ${format(totalmem())}
+│  ❒  *FreeRAM* : ${format(freemem())}
+│  ❒  *Speed* : ${latensi.toFixed(4)} ms
+│  ❒  *Uptime* : ${uptime}
+│  ❒  *Modo* : ${bot.public ? 'Privado' : 'Publico'}
+│  ❒  *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* )
 │  ✩  *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )
 └  ✩  *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios
 
  –  *I N F O  -  C H A T*
 
-┌  ✩  *${groupsIn.length}* Chats en Grupos
-│  ✩  *${groupsIn.length}* Grupos Unidos
-│  ✩  *${groupsIn.length - groupsIn.length}* Grupos Salidos
-│  ✩  *${chats.length - groupsIn.length}* Chats Privados
-└  ✩  *${chats.length}* Chats Totales
+┌  ❶  *${groupsIn.length}* Chats en Grupos
+│  ❷  *${groupsIn.length}* Grupos Unidos
+│  ❸  *${groupsIn.length - groupsIn.length}* Grupos Salidos
+│  ❹  *${chats.length - groupsIn.length}* Chats Privados
+└  ❺  *${chats.length}* Chats Totales
 
 *≡  _NodeJS Uso de memoria_*
 ${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}`
-await conn.reply(m.chat, teks, m, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: '↷✦╎Info - Bot╎⭐˖ ⸙',body: false, previewType: 0, thumbnail: miniurl, sourceUrl: ''}}})
+await conn.reply(m.chat, teks, m, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: '↷✦╎Info - Bot╎🚀˖ ⸙',body: false, previewType: 0, thumbnail: miniurl, sourceUrl: ''}}})
 }
 handler.help = ['info']
 handler.tags = ['main']
