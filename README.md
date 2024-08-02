@@ -121,4 +121,4 @@ npm start
 
 <a href="https://github.com/El-brayan502"><img src="https://telegra.ph/file/a8fada0d669afac23ce5d.jpg" width="300" height="300" alt="Brayan"/></a>
 
-`© 𝐓𝐡𝐞 𝐁𝐫𝐨𝐥𝐲-𝐁𝐨𝐭 / 𝐒𝐮𝐩𝐞𝐫 𝐁𝐫𝐨𝐥𝐲_𝗕𝗿𝗮𝘆𝗮𝗻-502`
+`© 𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘-𝐁𝐎𝐓 / 𝗖𝗿𝗲𝗮𝗱𝗼𝗿--𝗕𝗿𝗮𝘆𝗮𝗻𝗖𝗵𝗮𝗽𝗶𝗻`
