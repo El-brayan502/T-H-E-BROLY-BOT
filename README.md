@@ -106,7 +106,7 @@ npm start
 
 ## Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=StarlightsTeam&repo=Ai-Hoshino&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=StarlightsTeam&repo=The broly&theme=chartreuse-dark)
 
 ---------
 
