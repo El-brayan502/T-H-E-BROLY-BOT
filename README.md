@@ -1,7 +1,7 @@
 <h1 align="center">‧ 𝗧𝗛𝗘 𝗕𝗥𝗢𝗟𝗬-𝗕𝗢𝗧 ‧
 </p>
 <p>
-        <img src= "https://telegra.ph/file/a6d077cafb4b3204d8fc2.jpg">
+        <img src= "https://telegra.ph/file/9b2d7fc70640a38899d6c.jpg">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
