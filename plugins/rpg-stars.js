@@ -6,15 +6,15 @@ let handler = async (m, {conn, usedPrefix}) => {
     let user = global.db.data.users[who]
     let name = conn.getName(who)
     if (!(who in global.db.data.users)) return conn.reply(m.chat, '🚩 El usuario no se encuentra en mi base de Datos.', m, rcanal).then(_ => m.react('✖️'))
-    let img = await (await fetch(`https://tinyurl.com/yrkgv3qm`)).buffer()
+    let img = await (await fetch(`https://telegra.ph/file/d7044c1b3133601e01f6c.jpg`)).buffer()
     let txt = ` –  *S T A R S  -  U S E R*\n\n`
         txt += `┌  ✩  *Nombre* : ${user.name}\n`
-        txt += `│  ✩  *Estrellas* : ${toNum(user.limit)} ( *${user.limit}* )\n`
+        txt += `│  ✩  *BrolyCoins* : ${toNum(user.limit)} ( *${user.limit}* )\n`
         txt += `│  ✩  *Bank* : ${toNum(user.bank)} ( *${user.bank}* )\n`
         txt += `└  ✩  *XP* : ${toNum(user.exp)} ( *${user.exp}* )`
     let mentionedJid = [who]
         
-await conn.sendFile(m.chat, img, 'thumbnail.jpg', txt, m, null, rcanal)
+await conn.sendFile(m.chat, img, 'https://telegra.ph/file/d7044c1b3133601e01f6c.jpg', txt, m, null, rcanal)
 }
 handler.help = ['estrellas']
 handler.tags = ['rpg']
