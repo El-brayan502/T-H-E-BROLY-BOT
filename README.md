@@ -102,11 +102,6 @@ npm start
 
 * <a href="https://chat.whatsapp.com/LGyw9xekK82BlolSkbkISU"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
----------
-
----------
-
----------
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
