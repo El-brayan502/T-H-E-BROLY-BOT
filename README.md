@@ -110,11 +110,6 @@ npm start
 
 ---------
 
-## <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/octocat-anime.gif" alt="Github" width="44" height="44"> Github Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=StarlightsTeam&show_icons=true&theme=chartreuse-dark)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightsTeam&layout=compact&theme=chartreuse-dark)
-
 ---------
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
