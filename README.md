@@ -47,7 +47,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-https://github.com/El-brayan502/THE-BROLY---BOT.git && cd THE BROLY - BOT
+https://github.com/El-brayan502/T-H-E-BROLY-BOT.git && cd THE BROLY - BOT
 ```
 
 ```bash
