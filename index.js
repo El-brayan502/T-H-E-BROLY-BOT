@@ -22,10 +22,10 @@ const rl = createInterface(process.stdin, process.stdout)
 const app = express()
 const port = process.env.PORT || 8080;
 
-say('Ai Hoshino\nOshi No Ko', {
+say('The broli\bot', {
 font: 'chrome',
 align: 'center',
-gradient: ['red', 'magenta']})
+gradient: ['green', 'magenta']})
 
 var isRunning = false
 
