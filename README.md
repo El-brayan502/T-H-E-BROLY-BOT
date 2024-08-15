@@ -52,7 +52,7 @@ git clone https://github.com/El-brayan502/T-H-E-BROLY-BOT && cd THE BROLY - BOT
 
 
 ```bash
-npm install
+yarn install && npm install
 ```
 
 
