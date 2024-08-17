@@ -7,8 +7,7 @@
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
-    <p>
-    <p> src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
+    <p>/MANTENIMIENTO-SI-blue.svg"</a>
         <img src="https://img.shields.io/github/repo-size/Brayan502BROLY"  <br>
    </p>
    <p>
