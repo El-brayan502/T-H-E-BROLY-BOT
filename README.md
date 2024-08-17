@@ -90,7 +90,7 @@ npm start
 
 ---------
 
-## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> 𝗚𝗿𝘂𝗽𝗼 𝗱𝗲 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽
 
 
 - Si quieres probar la Bot antes de instalar
