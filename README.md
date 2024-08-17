@@ -2,7 +2,7 @@
 <h1 align="center"> 饾棫饾棝饾棙 饾棔饾棩饾棦饾棢饾棳-饾棔饾棦饾棫
 </p>
 <p>
-        <img src= "https://telegra.ph/file/9b2d7fc70640a38899d6c.jpg">
+        <img src= "que https://telegra.ph/file/e54a059908fa2e7a10199.jpg">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
