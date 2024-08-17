@@ -13,9 +13,7 @@
     <p>
         <a href="https://github.com/El-brayan502/THE-BROLY---BOT"><img title="Followers" src="https://img.shields.io/github/followers/THE-BROLY?color=blue&style=flat-square"></a>
         <a href="https://github.com/El-brayan502/T-H-E-BROLY-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/StarlightsTeam/BROLY-BOT?color=red&style=flat-square"></a>
-        <a href="https://https://github.com/El-brayan502/THE-BROLY---BOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/StarlightsTeam/BROLY-BOT?color=red&style=flat-square"></a>
-        <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
-        <img src="https://img.shields.io/github/repo-size/Brayan502BROLY" /> <br>
+        <a href="https://https://github.com/El-brayan502/THE-BROLY---BOT/network/> <br>
    </p>
    <p>
 </h1>
