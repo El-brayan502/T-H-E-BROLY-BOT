@@ -8,8 +8,6 @@
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p>
-        <a href="https://github.com/El-brayan502"><img title="Author"    src="https://img.shields.io/badge/Author-Brayan502l-purple.svg?style=for-the-badge&logo=github"></a>
-    </p>
     <p> src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
         <img src="https://img.shields.io/github/repo-size/Brayan502BROLY"  <br>
    </p>
