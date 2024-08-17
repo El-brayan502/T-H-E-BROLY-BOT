@@ -1,20 +1,26 @@
-> 2.0.2
-<h1 align="center"> 𝗧𝗛𝗘 𝗕𝗥𝗢𝗟𝗬-𝗕𝗢𝗧
+
+<h1 align="center"> 饾棫饾棝饾棙 饾棔饾棩饾棦饾棢饾棳-饾棔饾棦饾棫
 </p>
 <p>
-        <img src= "https://telegra.ph/file/e54a059908fa2e7a10199.jpg">
+        <img src= "https://telegra.ph/file/9b2d7fc70640a38899d6c.jpg">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
-    <p>/MANTENIMIENTO-SI-blue.svg"</a>
-        
-    <p> src="https://img.shields.io/badge<img src="https://img.shields.io/github/repo-size/Brayan502BROLY"  <br>
+    <p>
+        <a href="https://github.com/El-brayan502"><img title="Author"    src="https://img.shields.io/badge/Author-Brayan502l-purple.svg?style=for-the-badge&logo=github"></a>
+    </p>
+    <p>
+        <a href="https://github.com/El-brayan502/THE-BROLY---BOT"><img title="Followers" src="https://img.shields.io/github/followers/THE-BROLY?color=blue&style=flat-square"></a>
+        <a href="https://github.com/El-brayan502/T-H-E-BROLY-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/StarlightsTeam/BROLY-BOT?color=red&style=flat-square"></a>
+        <a href="https://https://github.com/El-brayan502/THE-BROLY---BOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/StarlightsTeam/BROLY-BOT?color=red&style=flat-square"></a>
+        <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
+        <img src="https://img.shields.io/github/repo-size/Brayan502BROLY" /> <br>
    </p>
    <p>
 </h1>
 
----------
+--------
 
 ## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="35" height="35"> Herramientas
 
