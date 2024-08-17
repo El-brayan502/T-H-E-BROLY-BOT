@@ -82,7 +82,7 @@ npm start
 
 ---------
 
-𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗼
+🍁𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗼🍁
 
 - Si el Bot tiene algún contactame ʕ˖͜͡˖ʔ
 
