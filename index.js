@@ -22,10 +22,10 @@ const rl = createInterface(process.stdin, process.stdout)
 const app = express()
 const port = process.env.PORT || 8080;
 
-say('The broli\bot', {
+say('Ai Hoshino\nOshi No Ko', {
 font: 'chrome',
 align: 'center',
-gradient: ['green', 'magenta']})
+gradient: ['red', 'magenta']})
 
 var isRunning = false
 
@@ -82,4 +82,4 @@ async function start(files) {
   }
 }
 
-start(['The-BROLI.js'])
+start(['starlights.js'])
