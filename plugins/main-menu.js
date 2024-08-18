@@ -336,7 +336,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 
     let pp15 = 'https://tinyurl.com/ykv7g4zy'
 
-    let img = await (await fetch(`https://telegra.ph/file/862f7d81ce25ec076fdd8.jpg`)).buffer()
+    let img = await (await fetch(`https://telegra.ph/file/0836b8dde434d2a46735c.jpg`)).buffer()
 
     await m.react('📚')
 
