@@ -58,7 +58,7 @@ yarn install
 
 
 ```bash
-npm start
+npm install
 ```
 
 - Después de eso te aparecerά un código **QR** lo escaneas con el Whatsapp web y listo
