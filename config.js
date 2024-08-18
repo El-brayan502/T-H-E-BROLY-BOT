@@ -34,10 +34,10 @@ global.packname = ``
 global.author = '{\n "bot": {\n   "name": "BROLY-BOT",\n     "author": "Brayan-GT",\n   "status_bot": "active"\n }\n}
 
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛo... ฅ^•ﻌ•^ฅ*'
-global.botname = '✦ 𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘 - 𝐌𝐃 ✦'
-global.textbot = `𝑺𝑼𝑷𝑬𝑹 𝑩𝑹𝑶𝑳𝒀 - 𝑩𝑶𝑻 24/7`
-global.listo = '*Aqui tiene amog@ ฅ^•ﻌ•^ฅ*'
-global.namechannel = '【 𝐔𝐍𝐈𝐑𝐕𝐄𝐑𝐒𝐎 - 𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘 】'
+global.botname = '𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘-𝐁𝐎𝐓'
+global.textbot = `𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘 𝐁𝐎𝐓 𝐁𝐘 𝐁𝐑𝐀𝐘𝐀𝐍`
+global.listo = '𝖠𝖰𝖴𝖨 𝖳𝖨𝖤𝖭𝖤𝖲 𝖶𝖤𝖮𝖭'
+global.namechannel = '𝑷𝑹𝑶𝒀𝑬𝑪𝑻𝑶-𝑻𝑯𝑬 𝑩𝑹𝑶𝑳𝒀-𝑩𝑶𝑻'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
