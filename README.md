@@ -104,6 +104,17 @@ npm start
 
 * <a href="https://chat.whatsapp.com/LGyw9xekK82BlolSkbkISU"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
+### 🚀 CORINPLUS-HOST 🚀
+<a href="https://dash.corinplus.com"><img src="https://qu.ax/ZycD.png" height="125px"></a>
+### Información del Host
+
+- **Dashboard:** [`Aquí`](https://dash.corinplus.com)
+- **Panel:** [`Aquí`](https://panel.corinplus.com)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
+- **Soporte:** [`Aquí`](https://chat.whatsapp.com/K235lkvaGvlGRQKYm26xZP)
+
+------------------
+
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
