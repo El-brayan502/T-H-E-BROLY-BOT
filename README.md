@@ -66,7 +66,7 @@ npm update
 ```
 
 ```bash
-
+npm start
 ```
 
 - Después de eso te aparecerά un código **QR** lo escaneas con el Whatsapp web y listo
