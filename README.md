@@ -105,7 +105,8 @@ npm start
 
 ### 🚀 CORINPLUS-HOST 🚀
 <a 
- > Activar T-H-E-BROLY-BOT 24/7 en corinplus Host       href="https://dash.corinplus.com"><img src="https://qu.ax/ZycD.png" height="125px"></a>
+ > Activar T-H-E-BROLY-BOT 24/7 en corinplus Host
+      href="https://dash.corinplus.com"><img src="https://qu.ax/ZycD.png" height="125px"></a>
 ### Información del Host
 
 - **Dashboard:** [`Aquí`](https://dash.corinplus.com)
