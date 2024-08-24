@@ -1,4 +1,5 @@
 > versión 2.9
+<a href="https://github.com/AngelPeruFachero"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=Broly-Bot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
 <h1 align="center"> 🛸𝑻𝑯𝑬 𝑩𝑹𝑶𝑳𝒀-𝑩𝑶𝑻🛸
 </p>
 <p>
