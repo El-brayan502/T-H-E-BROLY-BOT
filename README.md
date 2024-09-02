@@ -120,6 +120,6 @@ npm start
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
-<a href="https://github.com/El-brayan502"><img src="https://telegra.ph/file/a8fada0d669afac23ce5d.jpg" width="300" height="300" alt="Brayan"/></a>
+[preview](https://user-images.githubusercontent.com/100887441/156953527-740d110d-3ee5-41e5-9899-fd4d4b248d43.gif)
 
 `© 𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘-𝐁𝐎𝐓 / 𝗖𝗿𝗲𝗮𝗱𝗼𝗿--𝗕𝗿𝗮𝘆𝗮𝗻𝗖𝗵𝗮𝗽𝗶𝗻`
