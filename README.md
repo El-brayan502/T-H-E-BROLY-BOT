@@ -100,9 +100,13 @@ yarn install && npm install
 npm start
 ```
 ---------
-<div align="center">
-  <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/JoseXrl15k"><img src="https://github.com/JoseXrl15k.png" width="300" height="300" alt="Jose XrL"/></a>
+<a href="https://github.com/El-brayan502/BROLYBOT-MD" target="_blank"> 
+    <img src="https://i.ibb.co/QrkLbP4/file.jpg" alt="Ansi" width="150"/> 
+</a> 
 
-`© Nino Nakano / Powered by Jose`
+## `EDITOR Y PROPIETARIO DEL BOT` 
+BrayanCrazzy ![preview](https://user-images.githubusercontent.com/100887441/156953527-740d110d-3ee5-41e5-9899-fd4d4b248d43.gif)
+
+```bash
+`BrolyBot-MD ___ By BrayanCrazzy
