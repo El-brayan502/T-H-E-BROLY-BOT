@@ -32,24 +32,6 @@
   
 ---------
 
-cod
-
-> Bot en creación pronto se agregaran más cosas 
-
-- [x] Interacción con voz y texto
-- [x] Configuración de grupo
-- [x] antidelete, antilink, antiarabes, etc
-- [x] Bienvenida personalizada
-- [x] Chatbot (simsimi)
-- [x] Crear sticker de image/video/gif/url
-- [x] SubBot (Jadibot)
-- [x] Juego RPG
-- [x] Descarga de música y video de YT
-- [ ] Otros
-
----------
-
-
 
 ### **`Click en la imagen para obtener termux`**
 <a
