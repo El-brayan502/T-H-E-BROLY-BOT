@@ -29,15 +29,7 @@
         <a href="https://github.com/El-brayan502"><img title="Author"    src="https://img.shields.io/badge/Author-Brayan-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
-        <a href="https://github.com/JoseXrl15kollowers"><img title="Followers" src="https://img.shields.io/github/followers/JoseXrl15k?color=blue&style=flat-square"></a>
-        <a href="https://github.com/JoseXrl15k/Nino-Nakano/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JoseXrl15k/Nino-Nakano?color=red&style=flat-square"></a>
-        <a href="https://github.com/JoseXrl15k/Nino-Nakano/network/members"><img title="Forks" src="http://img.shields.io/github/forks/JoseXrl15k/Nino-Nakano?color=red&style=flat-square"></a>
-        <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
-        <img src="https://img.shields.io/github/repo-size/JoseXrl15k/Nino-Nakano" /> <br>
-   </p>
-   <p>
-</h1>
-
+  
 ---------
 
 ## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Características
