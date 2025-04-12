@@ -32,6 +32,8 @@
   
 ---------
 
+cod
+
 > Bot en creación pronto se agregaran más cosas 
 
 - [x] Interacción con voz y texto
