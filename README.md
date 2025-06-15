@@ -1,19 +1,19 @@
 <style>
-.btn-glow {
-  color: #fff;
-  padding: 12px 30px;
-  background: #111;
-  border: 2px solid #0ff;
-  border-radius: 30px;
+.btn-rainbow {
+  padding: 12px 28px;
+  border-radius: 25px;
+  background: linear-gradient(270deg, #ff0080, #7928ca, #2afadf);
+  background-size: 600% 600%;
+  color: white;
   font-weight: bold;
   text-decoration: none;
-  transition: 0.3s ease;
-  box-shadow: 0 0 10px #0ff, 0 0 20px #0ff inset;
+  animation: rainbow 3s ease infinite;
 }
-.btn-glow:hover {
-  box-shadow: 0 0 20px #0ff, 0 0 30px #0ff, 0 0 40px #0ff;
-  transform: scale(1.05);
+@keyframes rainbow {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
 }
 </style>
 
-<a class="btn-glow" href="https://github.com/El-brayan502" target="_blank">⭐ GitHub</a>
+<a class="btn-rainbow" href="https://wa.me/502XXXXXXXX" target="_blank">💬 WhatsApp</a>
