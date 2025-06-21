@@ -6,38 +6,40 @@ module.exports = {
   category: 'termux',
   start: async (Miku, m, { text, prefix }) => {
     const message = `
-*Cómo instalar BarbozaBot-Ai en Termux:*
+*Instrucciones para instalar BarbozaBot-Ai en Termux:*
 
-1. Actualiza Termux y paquetes:
+1. Actualiza los paquetes de Termux:
 \`\`\`
 pkg update && pkg upgrade -y
-pkg install git -y
-pkg install nodejs -y
-pkg install yarn -y
 \`\`\`
 
-2. Clona el repositorio:
+2. Instala las dependencias necesarias:
+\`\`\`
+pkg install nodejs-lts git
+\`\`\`
+
+3. Clona el repositorio de BarbozaBot-Ai:
 \`\`\`
 git clone https://github.com/Elrebelde1/BarbozaBot-Ai.git
 cd BarbozaBot-Ai
 \`\`\`
 
-3. Instala las dependencias:
+4. Instala las dependencias del proyecto:
 \`\`\`
-yarn
+npm install
 \`\`\`
 
-4. Ejecuta el bot:
+5. Ejecuta el bot:
 \`\`\`
 node index.js
 \`\`\`
 
-*¡Listo! Así arrancarás BarbozaBot-Ai en Termux.*
+*¡Listo! Ahora BarbozaBot-Ai debería estar funcionando en tu dispositivo Android a través de Termux.*
 
----
+Para más detalles y actualizaciones, visita el repositorio oficial: [https://github.com/Elrebelde1/BarbozaBot-Ai](https://github.com/Elrebelde1/BarbozaBot-Ai)
 
-Si quieres que te ayude con más comandos para otras instalaciones o scripts, dime. ¿Quieres que te prepare un script `.sh` completo para instalar todo de golpe?`;
-
+Si necesitas ayuda adicional o deseas que te prepare un script `.sh` para automatizar este proceso, no dudes en decírmelo.`;
+    
     await Miku.sendMessage(m.from, { text: message }, { quoted: m });
   }
 };
