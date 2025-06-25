@@ -19,3 +19,4 @@ handler.command = ['shinobu']
 handler.register = true 
 
 export default handler
+
