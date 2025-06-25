@@ -10,7 +10,7 @@ if (!json.url) return
 await conn.sendFile(m.chat, json.url, 'thumbnail.jpg', listo, m)
 await m.react('✅')
 } catch {
-await m.react('✖️')
+await m.react('📲')
 }}
 handler.help = ['shinobu']
 handler.tags = ['img']
