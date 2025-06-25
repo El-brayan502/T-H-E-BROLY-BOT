@@ -43,3 +43,27 @@ Si necesitas ayuda adicional o deseas que te prepare un script `.sh` para automa
     await Miku.sendMessage(m.from, { text: message }, { quoted: m });
   }
 };
+
+
+
+
+## 🚀 Instalación Rápida
+
+```bash
+termux-setup-storage
+```
+
+```bash
+git clone https://github.com/thecarlos19/black-clover-MD
+
+```
+```bash
+cd black-clover-MD
+```
+```bash
+npm install
+```
+
+```bash
+npm start
+```
