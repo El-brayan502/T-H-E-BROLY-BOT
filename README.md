@@ -1,69 +1,23 @@
-module.exports = {
-  name: 'installbarboza',
-  alias: ['instalbarboza', 'barbozabotinstall'],
-  desc: 'Instrucciones para instalar BarbozaBot-Ai en Termux',
-  react: '🤖',
-  category: 'termux',
-  start: async (Miku, m, { text, prefix }) => {
-    const message = `
-*Instrucciones para instalar BarbozaBot-Ai en Termux:*
-
-1. Actualiza los paquetes de Termux:
-\`\`\`
-pkg update && pkg upgrade -y
-\`\`\`
-
-2. Instala las dependencias necesarias:
-\`\`\`
-pkg install nodejs-lts git
-\`\`\`
-
-3. Clona el repositorio de BarbozaBot-Ai:
-\`\`\`
-git clone https://github.com/Elrebelde1/BarbozaBot-Ai.git
-cd BarbozaBot-Ai
-\`\`\`
-
-4. Instala las dependencias del proyecto:
-\`\`\`
-npm install
-\`\`\`
-
-5. Ejecuta el bot:
-\`\`\`
-node index.js
-\`\`\`
-
-*¡Listo! Ahora BarbozaBot-Ai debería estar funcionando en tu dispositivo Android a través de Termux.*
-
-Para más detalles y actualizaciones, visita el repositorio oficial: [https://github.com/Elrebelde1/BarbozaBot-Ai](https://github.com/Elrebelde1/BarbozaBot-Ai)
-
-Si necesitas ayuda adicional o deseas que te prepare un script `.sh` para automatizar este proceso, no dudes en decírmelo.`;
-    
-    await Miku.sendMessage(m.from, { text: message }, { quoted: m });
-  }
-};
-
-
-
-
-## 🚀 Instalación Rápida
-
-```bash
-termux-setup-storage
-```
-
-```bash
-git clone https://github.com/thecarlos19/black-clover-MD
-
-```
-```bash
-cd black-clover-MD
-```
-```bash
-npm install
-```
-
-```bash
-npm start
-```
+# NyanBot-V2 <img src="https://cdn3.emoji.gg/emojis/2336-vipgif.gif" alt="NyanBot-V2" width="30"/> 
+  
+ ![NyanBot2](https://media1.tenor.com/m/1EJwKI6QbkcAAAAC/purple-magical.gif#) 
+  
+ ## Mantente Conectado 
+  
+ Para actualizaciones, sigue nuestro canal: 
+  
+ [**Canal de Actualizaciones**](https://whatsapp.com/channel/0029VaDVQFVL7UVd71R7bY23)<img src="https://cdn3.emoji.gg/emojis/4045-crown.gif" alt="Channel" width="40"/> 
+  
+ Probar Bot: 
+  
+ [**WhatsApp**](https://wa.me/samu330) 
+  
+ Grpo de WhatsApp: 
+  
+ [**NEW**](https://chat.whatsapp.com/GtG0Q6rBVTTGAz8GmfS3e1)<img src="https://cdn3.emoji.gg/emojis/64042-vermillionheart.gif" alt="Samu" width="40"/> 
+  
+ --- 
+  
+ [***Samu330***](https://samu330.com)<img src="https://cdn3.emoji.gg/emojis/3653-animegirl-dance.gif" alt="Samu" width="60"/> 
+  
+ ---
